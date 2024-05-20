@@ -47,9 +47,9 @@
             <td><a href="#"><img alt="SQL" title="SQL" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
             </td>
-            <td><a href="#"><img alt="Possgress" title="Possgress" height="28px"
+            <td><a href="#"><img alt="Postgres" title="PostgresSQL" height="28px"
                         src="https://github.com/Anet450/Anet450/assets/92694028/0e13bd5b-a355-4759-af90-c9e28a482329" /></a></td>
-            <td><a href="#"><img alt="Oracle" title="Oracle" height="28px"
+            <td><a href="#"><img alt="Oracle" title="Oracle 11" height="28px"
                         src="https://github.com/Anet450/Anet450/assets/92694028/1e9fb39e-e932-494c-9a95-7a16d4ac7cb7" /></a></td>
             <td><a href="#"><img alt="Orange" title="Orange" height="28px"
                         src="https://github.com/Anet450/Anet450/assets/92694028/ce3b391d-42ae-48ca-87d3-1098d8f2a14c" /></a></td>
@@ -61,7 +61,7 @@
             <td><a href="#"><img alt="Anaconda" title="Anaconda" height="28px"
                         src="https://github.com/Anet450/Anet450/assets/92694028/cfbfddd6-5951-44e0-9b24-001569c307f0" /></a>
             </td>
-            <td><a href="#"><img alt="Microsof" title="Office Microsof" height="28px"
+            <td><a href="#"><img alt="Microsof" title="office microsoft" height="28px"
                         src="https://github.com/Anet450/Anet450/assets/92694028/e5994c20-ffaa-4e7d-99a2-eb9c6e045e99" /></a></td>
             <td><a href="#"><img alt="VMware" title="VMware Workstation" height="28px"
                         src="https://github.com/Anet450/Anet450/assets/92694028/d680d3e7-321c-4ccb-bc05-db177dfdf6cb" /></a></td>
