@@ -20,7 +20,8 @@
             <li>👨‍💻 <b>Project carried out during my studies</b>: <a href= "https://github.com/Anet450/BlackMoon_Trainess"> BlackMoon_Traineers</a></li>
         </ul>
     </div>
- Languages and Tools 🌐
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+<p>><em>>> Languages and Tools 🌐.</em></p>
  <table>
     <tbody>
         <tr>
@@ -83,7 +84,8 @@
         </tr>
     </tbody>
 </table>
-Basic knowledge and learning 🌐
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+    <p>><em>>> Basic knowledge and learning 🌐.</em></p>
      <table>
     <tbody>
         <tr>
@@ -104,7 +106,8 @@ Basic knowledge and learning 🌐
         </tr>
     </tbody>
 </table>
-Completed courses
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+<p>><em>>> Completed courses 🌐.</em></p>
     <table>
     <tbody>
         <tr>
