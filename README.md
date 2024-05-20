@@ -1,15 +1,15 @@
 <div>
     <div align=center>
-        <img src="https://github.com/Anet450/Anet450/assets/92694028/781358e1-b42d-40b8-9edc-b9ca37f4a578" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="https://github.com/Anet450/Anet450/assets/92694028/521d0889-a8dd-476a-a91f-b2f1a7cd7b89" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=left>
         <br>
         <p>
             <strong>
-                Intern computer engineer, Front-End Engineer, Problem Solver, Freelancer, Full stack developer student and Open-Source Enthusiast.<br><br>
-                I specialize in .NET Core and Microsoft SQL Server and I have experience working with Angular. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
-                I am passionate about learning .NET, all Back-End and Front-End Technologies, Linux, Database Technologies, Cloud Computing, and Tools for creating AI.<br><br>
-                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner and self-motivated.
+               Intern in computer science engineering, Passionate about Front-End, Problem Solver, Freelancer and Full Stack developer student..<br><br>
+                I specialize in Front-end design, I have experience working with Unity and networks. Good in algorithms, data structures, database systems, object-oriented programming, design patterns, and problem-solving skills.<br><br>
+                I will like to learn .NET, all Back-End and Front-End technologies, Linux, database technologies, cloud computing and tools to create AI..<br><br>
+                Detailed engineer, responsible and committed, with a spirit of a finished, punctual and high-quality product. Self-taught, fast learning and self-motivated.
             </strong>
         </p>
         <ul>
