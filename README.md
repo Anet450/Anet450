@@ -13,8 +13,8 @@
             </strong>
         </p>
         <ul>
-            <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://ahmedfathydev.github.io/Problem-Solving/">Problem-Solving</a>, ⭐️ star the projects if you like it 🤩.</li>
+            <li>🌱 <b>I’m currently  looking to learn</b>: About the area of ​​cybersecurity.</li>
+            <li>🎯 <b>I’m currently focusing on</b>: Expanding my knowledge in other languages ​​and programming tools.</li>
             <li>😄 <b>Fun fact</b>: I love Read(📖), Write(📝), Draw(🏞️), Codeing(💻) and Traveling(🌍).</li>
             <li>👨‍💻 <b>Project carried out during my studies</b>: <a href="https://github.com/Anet450/Proyecto-Modular-2024"> CVE-2024-SinNombre</a>.</li>
             <li>👨‍💻 <b>Project carried out during my studies</b>: <a href= "https://github.com/Anet450/BlackMoon_Trainess"> BlackMoon_Traineers</a></li>
@@ -119,25 +119,4 @@ Completed courses
         </tr>
     </tbody>
 </table>
-    <div align=center>
-      <!--
-        <h1>Contribution Activity</h1>
-        <img src="https://camo.githubusercontent.com/7ad515e361dd93604d7611c89776dc99f0e186da58e9da42af07df7d85ccb64b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e6465726d656e646f7a61267468656d653d676f7468616d26636f756e745f707269766174653d747275652673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565" alt="GitHub Stats" height="200" />
-        <br>
-        
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfathydev&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
-        <br>
-        
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedFathyDev&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
-        -->
-        <br>
-        <br>
-    </div>
-    <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Loading</p>
-    </div>
-</div>
-
-------
 
