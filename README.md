@@ -6,7 +6,7 @@
         <br>
         <p>
             <strong>
-               Intern in computer science engineering, Passionate about Front-End, Problem Solver, Freelancer and Full Stack developer student..<br><br>
+            I am computer engineering, Passionate about Front-End, Problem Solver, Freelancer and Full Stack developer student..<br><br>
                 I specialize in Front-end design, I have experience working with Unity and networks. Good in algorithms, data structures, database systems, object-oriented programming, design patterns, and problem-solving skills.<br><br>
                 I will like to learn .NET, all Back-End and Front-End technologies, Linux, database technologies, cloud computing and tools to create AI..<br><br>
                 Detailed engineer, responsible and committed, with a spirit of a finished, punctual and high-quality product. Self-taught, fast learning and self-motivated.
