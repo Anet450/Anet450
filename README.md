@@ -1,12 +1,12 @@
 <div>
     <div align=center>
-        <img src="https://github.com/Anet450/Anet450/assets/92694028/521d0889-a8dd-476a-a91f-b2f1a7cd7b89" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="https://github.com/Anet450/Anet450/issues/1#issuecomment-2119385887" alt="" height="200">
     </div>
     <div align=left>
         <br>
         <p>
             <strong>
-            I am computer engineering, Passionate about Front-End, Problem Solver, Freelancer and Full Stack developer student..<br><br>
+            I am computer engineering, Passionate about Cibersegurity and Front-End, Problem Solver, Freelancer and Full Stack developer student..<br><br>
                 I specialize in Front-end design, I have experience working with Unity and networks. Good in algorithms, data structures, database systems, object-oriented programming, design patterns, and problem-solving skills.<br><br>
                 I will like to learn .NET, all Back-End and Front-End technologies, Linux, database technologies, cloud computing and tools to create AI..<br><br>
                 Detailed engineer, responsible and committed, with a spirit of a finished, punctual and high-quality product. Self-taught, fast learning and self-motivated.
