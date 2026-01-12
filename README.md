@@ -1,6 +1,6 @@
 <div>
     <div align=center>
-        <img src="https://github.com/Anet450/Anet450/assets/92694028/521d0889-a8dd-476a-a91f-b2f1a7cd7b89" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="https://github.com/Anet450/Anet450/issues/1#issuecomment-2119385887" alt="_______" height="200">
     </div>
     <div align=left>
         <br>
